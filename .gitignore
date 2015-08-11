@@ -1,0 +1,8 @@
+dist
+info
+node_modules
+hooks
+refs
+objects
+.idea
+src/dependencies
